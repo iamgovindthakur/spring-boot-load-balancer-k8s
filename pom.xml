@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.iamgkt</groupId>
-	<artifactId>spring-boot-load-balancer</artifactId>
+	<artifactId>spring-boot-load-balancer-k8s</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-boot-load-balancer</name>
+	<name>spring-boot-load-balancer-k8s</name>
 	<description>spring-boot-load-balancer project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
